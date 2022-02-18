@@ -8,6 +8,10 @@ func SumAB(a, b int) int {
 	return a + b
 }
 
+func MultAB(a, b int) int {
+	return a * b
+}
+
 func main() {
 	fmt.Println("10")
 }
